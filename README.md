@@ -1,3 +1,5 @@
+SW마에스트로 GitLab에서 코드관리가 진행되고 있습니다.
+
 # CANTABILE-Client
 Cantabile-client 레포지토리는 SW마에스트로 12기 Page-Turner팀에서 기획한 피아노 연습 어플리케이션 입니다. Flutter 프레임 워크를 이용한 iOS/Android 앱 개발이 본 과정 시작 이후 진행되었으며, 현재 구글 PlayStore와 Apple AppStore에 배포되었습니다.    
 <p align="center">
